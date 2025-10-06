@@ -435,4 +435,15 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "Lion",  # title
+        "garth davis",  # director
+        2016,  # year
+        [
+            "dev patel",
+            "saroo brierly",
+            "sunny parwar",
+            "rooney mara",
+        ],
+    ),
 ]
